@@ -108,6 +108,7 @@
     "screenfull": "^6.0.2",
     "scroll-into-view-if-needed": "^3.1.0",
     "server-text-width": "^1.0.2",
+    "shadow-cljs": "2.27.4",
     "simple-statistics": "^3.0.0",
     "slugg": "^1.2.1",
     "sql-formatter": "^15.1.2",
